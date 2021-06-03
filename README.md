@@ -5,13 +5,16 @@ Web Srapping
   
 
 Requirements:
-  python3
-  requests
-  bs4
-  pandas (for csv file)
+
+      python3
+      requests
+      bs4
+      pandas (for csv file)
+  
  
 Installation:
 
-  pip3 install requests
-  pip3 install bs4
-  pip install pandas
+    pip3 install requests
+    pip3 install bs4
+    pip install pandas
+  
